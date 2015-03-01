@@ -6,11 +6,11 @@
 
 ##インストール
 
-[store][]
+[No Gunosy - Chrome Web Store][store]
 
 ##更新履歴
 
 * 2015.03.01: 公開
 
 
-[store]: https://chrome.google.com/webstore/detail/no-gunosy/ldakcaeogbbndkpnmoneagdfngoilnaj "No Gunosy - Chrome Web Store"
+[store]: https://chrome.google.com/webstore/detail/no-gunosy/ldakcaeogbbndkpnmoneagdfngoilnaj "Chrome拡張機能ページを開きます"
